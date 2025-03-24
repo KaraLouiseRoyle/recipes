@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-* Lime
-* Avocado
-* Other Icky things 
+* Lime - 50p
+* Avocado - £2
+* Other Icky things - £Unknown 
 ## Method
 
