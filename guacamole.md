@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* Lemons
+* Lime
 * Avocado
 * Other Icky things 
 ## Method
